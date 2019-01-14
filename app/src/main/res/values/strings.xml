@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ЗПК Главное Меню</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="detail_location">Loc</string>
+    <string name="detail_desc">Desc</string>
+    <string name="setings">Настройки</string>
+</resources>

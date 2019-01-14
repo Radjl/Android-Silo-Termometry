@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+    <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+        <EditTextPreference
+    android:key="temperature"
+    android:defaultValue="30"
+    android:summary="Сохраняет значение предельной температуры силоса"
+    android:title="Предел температуры">
+
+</EditTextPreference>
+
+    <EditTextPreference
+        android:key="air"
+        android:defaultValue="0"
+        android:summary="Устанавливает значение температуры окружающей среды для отображение уровня зерна в силосе на ее основе"
+        android:title="температура воздуха">
+
+    </EditTextPreference>
+    </PreferenceScreen>
+
+
+
